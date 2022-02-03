@@ -12,7 +12,7 @@ class Point():
         """
         Constructor
         If xy is not provided, randomly generate xy coordiantes.
-        xy can be assigned by a tuple (e.g., (2, 3))
+        Otherwise, xy can be assigned by a tuple (e.g., (2, 3))
         """
         # properties
         self.x = None
