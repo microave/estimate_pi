@@ -46,7 +46,8 @@ def estimate_pi(n_points):
 
 
 # estimate pi for 100 iterations
-outs = np.zeros((1000, 100))
-for i in range(100):
+n_iter = 100
+pi = np.zeros(n_iter)
+for i in range(n_iter):
     pass
 
