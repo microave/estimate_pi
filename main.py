@@ -4,8 +4,8 @@ class Point():
     """
     A point in a 2D (xy) space
     properties:
-        x: integer, x-coordinate
-        y: integer, y-coordinate
+        x: float, x-coordinate
+        y: float, y-coordinate
     """
 
     def __init__(self, xy=None):

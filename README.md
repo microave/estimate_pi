@@ -1,3 +1,3 @@
 # Estimate pi
-![](description.png)
-![](estimated_pi.png)
+![](res/description.png)
+![](res/estimated_pi.png)
